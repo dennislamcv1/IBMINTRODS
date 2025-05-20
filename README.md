@@ -1,5 +1,5 @@
 # IBMIntroDS
-## Introduction to Data Science Specialization
+## Introduction to Data Science Specialization (4 course series)
 
 Interested in learning more about data science, but don’t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field.  
 
